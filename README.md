@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alpha2lucifer
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Chandan!
 - 👀 I’m interested in python, c++, java, c, c# and web-D
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Data structures and algorithms
