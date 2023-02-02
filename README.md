@@ -11,7 +11,7 @@
 <br>
 
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha2lucifer&theme=chartreuse-dark&show_icons=true)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpha2lucifer&show_icons=true&locale=en&layout=compact" alt="alpha2lucifer" />
 <br>
 
  ## ❤ Views and Followers
