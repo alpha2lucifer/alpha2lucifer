@@ -3,7 +3,7 @@
 ### pursuing Computer science engineering with internet of things
 - 👀 I’m interested in python, c++, java, Go, R and web-D
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Data structures and algorithms
+- 💞️ I’m looking to collaborate on AI and ML.
 - 📫 How to reach me <aryachandan1947@gmail.com>
 
 ## 📊 My Github Stats
