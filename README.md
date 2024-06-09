@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Chandan!
-### __I am a Third-year student at Netaji Subhas university of technology, Delhi.__
+### __I am a Final-year student at Netaji Subhas university of technology, Delhi.__
 ### pursuing Computer science engineering with internet of things
 - 👀 I’m interested in python, c++, java, Go, R and web-D
 - 🌱 I’m currently learning C++
