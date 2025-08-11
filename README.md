@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Chandan!
-### __I am a CS graduate frpm Netaji Subhas university of technology, Delhi.
+### I am a CS graduate frpm Netaji Subhas university of technology, Delhi.
 - 👀 I’m interested in python, c++, java, Go, R and web-D
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI and ML.
